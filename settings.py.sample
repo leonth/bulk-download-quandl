@@ -1,0 +1,10 @@
+# Copy this file to settings.py and put in your configurations.
+
+# Download directory
+DL_DIR = 'quandl_WIKI'
+
+# See http://www.quandl.com/help/api on instructions to get an auth token from Quandl.
+AUTH_TOKEN = ''
+
+# Maximum number of simultaneous connection to Quandl server at one time.
+MAX_CONN = 10
